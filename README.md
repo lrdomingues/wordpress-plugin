@@ -16,29 +16,20 @@ The plugin has the following features:
 <a href="https://lucasdomingues.eu1.alfasoft.pt/contact-management/" target="_blank">Public area</a>
 
 ## Scripts
-admin area files are in plugins/new-plugin directory.<br>
-public area files are in plugins/themes directory.
+admin area files are in <b>plugins/novo-plugin</b> directory.<br>
+public area files are in <b>themes/2022-filho</b> directory.<br>
 
-### `npm start`
-Execute o aplicativo no modo de desenvolvimento.<br />
-Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no navegador.<br/><br/>
+If you download this project to test, don't forget to provide<br>
+the database <b>username</b> and <b>password</b> to make the <b>connection</b>.
 
-### `ReactJS e API`
-O componente 'Books' faz o consumo da seguinte API:<br/>
-[https://www.googleapis.com/books/v1/volumes?q=HARRY%20POTTER](https://www.googleapis.com/books/v1/volumes?q=HARRY%20POTTER)
-<br/>
-![image](https://user-images.githubusercontent.com/51265303/68031249-07f26500-fc9a-11e9-9336-4dda504a83c8.png)
-<br/><br/>
+### `Plugin and API`
+The plugin consumes the following API:<br/>
+[https://restcountries.com/v2/all](https://restcountries.com/v2/all)
 
-### `Componente 'Curtir'`
-Ao clicar no ícone da "mãozinha" o contador irá incrementar.<br />
-![demo](https://user-images.githubusercontent.com/51265303/68026008-1dad5d80-fc8d-11e9-9495-79dbde33b2bd.gif)
-<br/><br/>
+### `Child Theme`
+In this project I chose to develop the public area creating a variation of the theme 'twentytwentytwo'.
 
-### `CSS Modules`
-Para esse projeto foi adotado o metódo de estilização `Css Modules`, que consiste em trabalhar com um arquivo de CSS no qual todas os nomes de classes e nomes de animações estão no escopo local, por default.<br/><br/>
-
-### `Visão Geral`
-![visao_geral](https://user-images.githubusercontent.com/51265303/68032007-88659580-fc9b-11e9-977e-0ff31acbacec.gif)
+### `Overview`
+![overview](https://user-images.githubusercontent.com/51265303/68032007-88659580-fc9b-11e9-977e-0ff31acbacec.gif)
 <br/><br/><br/><br/>
 <p align="center"><b>by Lucas R. Domingues</b></p>
