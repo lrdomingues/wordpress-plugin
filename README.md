@@ -15,8 +15,9 @@ The plugin has the following features:
 1 - A page for listing people with filtering.
 <a href="https://lucasdomingues.eu1.alfasoft.pt/contact-management/" target="_blank">Public area</a>
 
-## Scripts disponíveis
-No diretório do projeto, você pode executar:
+## Scripts
+admin area files are in plugins/new-plugin directory.<br>
+public area files are in plugins/themes directory.
 
 ### `npm start`
 Execute o aplicativo no modo de desenvolvimento.<br />
