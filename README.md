@@ -30,6 +30,6 @@ The plugin consumes the following API:<br/>
 In this project I chose to develop the public area creating a variation of the theme 'twentytwentytwo'.
 
 ### `Overview`
-![overview](https://user-images.githubusercontent.com/51265303/68032007-88659580-fc9b-11e9-977e-0ff31acbacec.gif)
+![overview](https://github.com/lrdomingues/wordpress-plugin/blob/master/overview-plugin.gif)
 <br/><br/><br/><br/>
 <p align="center"><b>by Lucas R. Domingues</b></p>
