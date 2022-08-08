@@ -14,6 +14,7 @@ The plugin has the following features:
 
 1 - A page for listing people with filtering.
 <a href="https://lucasdomingues.eu1.alfasoft.pt/contact-management/" target="_blank">Public area</a>
+![overview](https://github.com/lrdomingues/wordpress-plugin/blob/master/public-overview-plugin.gif)
 
 ## Scripts
 admin area files are in <b>plugins/novo-plugin</b> directory.<br>
@@ -31,6 +32,5 @@ In this project I chose to develop the public area creating a variation of the t
 
 ### `Overview`
 ![overview](https://github.com/lrdomingues/wordpress-plugin/blob/master/overview-plugin.gif)
-![overview](https://github.com/lrdomingues/wordpress-plugin/blob/master/public-overview-plugin.gif)
 <br/><br/>
 <p align="center"><b>by Lucas R. Domingues</b></p>
